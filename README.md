@@ -6,7 +6,7 @@
   🎓 <b>Bacharelando em Sistemas de Informação - UFV</b><br>
   💻 <b>Desenvolvedor Backend</b> e entusiasta de <b>Desenvolvimento Web</b><br>
   📚 Foco em <b>APIs, Bancos de Dados e Arquitetura de Software</b><br>
-  🚀 Aprendendo: Python | Java | C++ | Flask | SQL | JavaScript
+  🚀 Aprendendo: Java | Python | C++ | SQL | JavaScript | C#
 </p>
 
 ---
