@@ -19,7 +19,7 @@
 public class Otavio {
 
     private final String formacao   = "Sistemas de Informação - UFV";
-    private final String atuacao    = "Desenvolvedor Full Stack";
+    private final String atuacao    = "Desenvolvedor Full Stack Java";
     private final String[] foco     = { "APIs REST", "Bancos de Dados", "Back-end em Java" };
     }
 }
@@ -79,16 +79,7 @@ public class Otavio {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☕ Sistema CRUD em Java</h3>
-      <p align="center">
-        <a href="https://github.com/otaviohenriq7/Sistema-CRUD-Java">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Sistema-CRUD-Java&theme=merko&hide_border=true" />
-        </a>
-      </p>
-      <p>Sistema completo de <b>CRUD em Java</b>, com operações de criação, leitura, atualização e exclusão de registros.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💈 Agendador de Barbearia</h3>
+      <h3 align="center">💈 Agendador de Barbearia (Java)</h3>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Agendador_Barbearia">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Agendador_Barbearia&theme=merko&hide_border=true" />
@@ -96,25 +87,14 @@ public class Otavio {
       </p>
       <p><b>API REST de agendamento</b> para barbearia, construída com <b>Spring Boot</b> e <b>JPA</b>.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Projeto de Algoritmos</h3>
+      <h3 align="center">☕ Sistema CRUD em Java</h3>
       <p align="center">
-        <a href="https://github.com/otaviohenriq7/Projeto-de-Algoritmos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Projeto-de-Algoritmos&theme=merko&hide_border=true" />
+        <a href="https://github.com/otaviohenriq7/Sistema-CRUD-Java">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Sistema-CRUD-Java&theme=merko&hide_border=true" />
         </a>
       </p>
-      <p>Estudo dos <b>algoritmos de ordenação</b> em C++, analisando tempos de resposta e complexidade.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AutomaLAB</h3>
-      <p align="center">
-        <a href="https://github.com/ryanmarques1/AutomaLAB">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmarques1&repo=AutomaLAB&theme=merko&hide_border=true" />
-        </a>
-      </p>
-      <p>Sistema para criação e simulação de <b>autômatos AFDs e AFNs</b>, desenvolvido em Python.</p>
+      <p>Sistema completo de <b>CRUD</b>, com operações de criação, leitura, atualização e exclusão de registros.</p>
     </td>
   </tr>
 </table>
