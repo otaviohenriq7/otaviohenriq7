@@ -152,7 +152,3 @@ public class Otavio {
 </p>
 
 ---
-
-<p align="center">
-  <i>"Código bom é aquele que a pessoa depois de você entende." 🌱</i>
-</p>
