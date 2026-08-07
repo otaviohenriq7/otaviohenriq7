@@ -80,23 +80,24 @@ public class Otavio {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💈 Agendador de Barbearia (Java)</h3>
+      <p><b>API REST de agendamento</b> para barbearia, construída com <b>Spring Boot</b> e <b>JPA</b>.</p>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Agendador_Barbearia">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Agendador_Barbearia&theme=merko&hide_border=true" />
+          <img src="https://img.shields.io/badge/Clique_Aqui-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do Agendador de Barbearia"/>
         </a>
       </p>
-      <p><b>API REST de agendamento</b> para barbearia, construída com <b>Spring Boot</b> e <b>JPA</b>.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">☕ Sistema CRUD em Java</h3>
+      <p>Sistema completo de <b>CRUD</b>, com operações de criação, leitura, atualização e exclusão de registros.</p>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Sistema-CRUD-Java">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Sistema-CRUD-Java&theme=merko&hide_border=true" />
+          <img src="https://img.shields.io/badge/Clique_Aqui-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do Sistema CRUD em Java"/>
         </a>
       </p>
-      <p>Sistema completo de <b>CRUD</b>, com operações de criação, leitura, atualização e exclusão de registros.</p>
     </td>
   </tr>
+</table>
 </table>
 
 ---
@@ -106,27 +107,25 @@ public class Otavio {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">😷 Visão Computacional</h3>
+      <h3 align="center">😷 Visão Computacional (Python)</h3>
+      <p>Classificação de uso de <b>máscara facial</b> com <b>Deep Learning</b>, comparando as arquiteturas <b>AlexNet</b> e <b>VGG16</b>.</p>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Projeto-Visao-Computacional">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Projeto-Visao-Computacional&theme=merko&hide_border=true" />
+          <img src="https://img.shields.io/badge/Clique_Aqui-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do Projeto de Visão Computacional"/>
         </a>
-      </p>
-      <p>Classificação de uso de <b>máscara facial</b> com <b>Deep Learning</b>, comparando as arquiteturas <b>AlexNet</b> e <b>VGG16</b> via Transfer Learning. Desenvolvido em <b>Python</b> (Jupyter/Colab) para a disciplina de Visão Computacional na UFV.</p>
-      <p align="center">
         <a href="https://youtu.be/2FpYy_PDXQo">
-          <img src="https://img.shields.io/badge/Ver_apresenta%C3%A7%C3%A3o-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Apresenta%C3%A7%C3%A3o-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver apresentação do projeto no YouTube"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Projeto de Algoritmos</h3>
+      <h3 align="center">⚙️ Projeto de Algoritmos (C++)</h3>
+      <p>Estudo dos <b>algoritmos de ordenação</b>, medindo os tempos de resposta de cada abordagem e analisando a complexidade envolvida.</p>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Projeto-de-Algoritmos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Projeto-de-Algoritmos&theme=merko&hide_border=true" />
+          <img src="https://img.shields.io/badge/Clique_Aqui-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do Projeto de Algoritmos"/>
         </a>
       </p>
-      <p>Estudo dos <b>algoritmos de ordenação</b> em <b>C++</b>, medindo os tempos de resposta de cada abordagem e analisando a complexidade envolvida.</p>
     </td>
   </tr>
 </table>
