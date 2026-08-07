@@ -100,3 +100,33 @@ public class Otavio {
 </table>
 
 ---
+
+## 🧩 Outros projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">😷 Visão Computacional</h3>
+      <p align="center">
+        <a href="https://github.com/otaviohenriq7/Projeto-Visao-Computacional">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Projeto-Visao-Computacional&theme=merko&hide_border=true" />
+        </a>
+      </p>
+      <p>Classificação de uso de <b>máscara facial</b> com <b>Deep Learning</b>, comparando as arquiteturas <b>AlexNet</b> e <b>VGG16</b> via Transfer Learning. Desenvolvido em <b>Python</b> (Jupyter/Colab) para a disciplina de Visão Computacional na UFV.</p>
+      <p align="center">
+        <a href="https://youtu.be/2FpYy_PDXQo">
+          <img src="https://img.shields.io/badge/Ver_apresenta%C3%A7%C3%A3o-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Projeto de Algoritmos</h3>
+      <p align="center">
+        <a href="https://github.com/otaviohenriq7/Projeto-de-Algoritmos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Projeto-de-Algoritmos&theme=merko&hide_border=true" />
+        </a>
+      </p>
+      <p>Estudo dos <b>algoritmos de ordenação</b> em <b>C++</b>, medindo os tempos de resposta de cada abordagem e analisando a complexidade envolvida.</p>
+    </td>
+  </tr>
+</table>
