@@ -131,24 +131,3 @@ public class Otavio {
 </table>
 
 ---
-
-## 📊 Minhas estatísticas
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=otaviohenriq7&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviohenriq7&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviohenriq7&theme=merko&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviohenriq7&bg_color=0a0f0b&color=68b587&line=abd200&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otaviohenriq7&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
-
----
