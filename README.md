@@ -99,13 +99,13 @@ public class Otavio {
       <p>Sistema completo de <b>CRUD em Java</b>, com operações de criação, leitura, atualização e exclusão de registros.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Desenvolvimento Web com Flask</h3>
+      <h3 align="center">💈 Agendador de Barbearia</h3>
       <p align="center">
-        <a href="https://github.com/MMoreira020/desenvolvimentoweb_flask_e_python">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMoreira020&repo=desenvolvimentoweb_flask_e_python&theme=merko&hide_border=true" />
+        <a href="https://github.com/otaviohenriq7/Agendador_Barbearia">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Agendador_Barbearia&theme=merko&hide_border=true" />
         </a>
       </p>
-      <p>Aplicação web em <b>Python + Flask</b>, explorando rotas, templates e integração com banco de dados.</p>
+      <p><b>API REST de agendamento</b> para barbearia, construída com <b>Spring Boot</b> e <b>JPA</b>.</p>
     </td>
   </tr>
   <tr>
