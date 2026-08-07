@@ -5,7 +5,7 @@
   🎓 <b>Bacharelando em Sistemas de Informação - UFV</b><br>
   💻 <b>Desenvolvedor Full Stack</b><br>
   📚 Foco em <b>APIs, Bancos de Dados e Desenvolvimento de Software</b><br>
-  🚀 Aprendendo: Java | C# | C++ | PLSQL | JavaScript |
+  🚀 Aprendendo: Java | C# | PostgreSQL | PL/SQL | JavaScript | Spring Boot
 </p>
 
 🛠️ Tecnologias que já utilizei:
