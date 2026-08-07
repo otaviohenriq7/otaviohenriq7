@@ -1,49 +1,111 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hello+World%2C+eu+sou+Ot%C3%A1vio!;Full+Stack+%7C+Desenvolvedor;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+Ot%C3%A1vio!;Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+PostgreSQL;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </h1>
+
 <p align="center">
-  🎓 <b>Bacharelando em Sistemas de Informação - UFV</b><br>
-  💻 <b>Desenvolvedor Full Stack</b><br>
-  📚 Foco em <b>APIs, Bancos de Dados e Desenvolvimento de Software</b><br>
-  🚀 Aprendendo: Java | C# | PostgreSQL | PL/SQL | JavaScript | Spring Boot
+  <a href="https://www.linkedin.com/in/otaviohenriq7/">
+    <img src="https://img.shields.io/badge/LinkedIn-1B7F3B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:otaviohresende@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-2EA043?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/otaviohenriq7">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39D353"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=otaviohenriq7&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=39d353&style=for-the-badge" alt="Profile views"/>
 </p>
 
-🛠️ Tecnologias que já utilizei:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+---
+
+## 👨‍💻 Sobre mim
+
+```java
+public class Otavio {
+
+    private final String formacao   = "Sistemas de Informação - UFV";
+    private final String atuacao    = "Desenvolvedor Full Stack";
+    private final String[] foco     = { "APIs REST", "Bancos de Dados", "Back-end em Java" };
+
+    public String[] estudandoAgora() {
+        return new String[] { "Spring Boot", "PostgreSQL", "PL/SQL", "Boas práticas & testes" };
+    }
+}
+```
+
+- 🎓 Bacharelando em **Sistemas de Informação** na **UFV**
+- 💼 Construindo aplicações **full stack**, do banco de dados à interface
+- 🌱 Aprofundando em **Java + Spring Boot**, **PostgreSQL** e **PL/SQL**
+- 🎯 Objetivo: evoluir como desenvolvedor back-end, escrevendo código limpo e testável
+- 📫 Contato: **otaviohresende@gmail.com**
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+**Linguagens**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-CC0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+**Frameworks & Front-end**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-📌 Projetos em destaque
+**Bancos de Dados**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Desenvolvimento Web com Flask</h3>
-      <p align="center">
-        <a href="https://github.com/MMoreira020/desenvolvimentoweb_flask_e_python">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMoreira020&repo=desenvolvimentoweb_flask_e_python&theme=tokyonight" />
-        </a>
-      </p>
-      <p>Projeto de desenvolvimento web utilizando <b>Python + Flask</b>, explorando rotas, templates e integração com banco de dados.</p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">☕ Sistema CRUD em Java</h3>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Sistema-CRUD-Java">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Sistema-CRUD-Java&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Sistema-CRUD-Java&theme=merko&hide_border=true" />
         </a>
       </p>
       <p>Sistema completo de <b>CRUD em Java</b>, com operações de criação, leitura, atualização e exclusão de registros.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Desenvolvimento Web com Flask</h3>
+      <p align="center">
+        <a href="https://github.com/MMoreira020/desenvolvimentoweb_flask_e_python">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMoreira020&repo=desenvolvimentoweb_flask_e_python&theme=merko&hide_border=true" />
+        </a>
+      </p>
+      <p>Aplicação web em <b>Python + Flask</b>, explorando rotas, templates e integração com banco de dados.</p>
     </td>
   </tr>
   <tr>
@@ -51,7 +113,7 @@
       <h3 align="center">⚙️ Projeto de Algoritmos</h3>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Projeto-de-Algoritmos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Projeto-de-Algoritmos&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=otaviohenriq7&repo=Projeto-de-Algoritmos&theme=merko&hide_border=true" />
         </a>
       </p>
       <p>Estudo dos <b>algoritmos de ordenação</b> em C++, analisando tempos de resposta e complexidade.</p>
@@ -60,7 +122,7 @@
       <h3 align="center">🤖 AutomaLAB</h3>
       <p align="center">
         <a href="https://github.com/ryanmarques1/AutomaLAB">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmarques1&repo=AutomaLAB&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmarques1&repo=AutomaLAB&theme=merko&hide_border=true" />
         </a>
       </p>
       <p>Sistema para criação e simulação de <b>autômatos AFDs e AFNs</b>, desenvolvido em Python.</p>
@@ -68,27 +130,29 @@
   </tr>
 </table>
 
-📊 Minhas Estatísticas no GitHub
+---
+
+## 📊 Minhas estatísticas
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviohenriq7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviohenriq7&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviohenriq7&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=otaviohenriq7&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviohenriq7&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
 </p>
 
-📫 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/otaviohenriq7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/otaviohenriq7">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/otaviohenriq7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviohenriq7&theme=merko&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=otaviohenriq7&label=Visualizações+do+perfil&color=6a5acd&style=flat" alt="Profile views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviohenriq7&bg_color=0a0f0b&color=68b587&line=abd200&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=otaviohenriq7&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Código bom é aquele que a pessoa depois de você entende." 🌱</i>
 </p>
