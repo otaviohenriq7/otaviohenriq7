@@ -29,10 +29,7 @@ public class Otavio {
 }
 ```
 
-- 🎓 Bacharelando em **Sistemas de Informação** na **UFV**
-- 💼 Construindo aplicações **full stack**, do banco de dados à interface
-- 🌱 Aprofundando em **Java + Spring Boot**, **PostgreSQL** e **PL/SQL**
-- 🎯 Objetivo: evoluir como desenvolvedor, escrevendo código limpo e testável
+- 🎓 Graduando em **Sistemas de Informação** na **UFV**
 - 📫 Contato: **otaviohresende@gmail.com**
 
 ---
