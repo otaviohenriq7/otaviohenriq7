@@ -30,7 +30,7 @@ public class Otavio {
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias que já utilizei
 
 <div align="center">
 
