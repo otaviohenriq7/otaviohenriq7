@@ -35,7 +35,7 @@ public class Otavio {
 - 🎓 Bacharelando em **Sistemas de Informação** na **UFV**
 - 💼 Construindo aplicações **full stack**, do banco de dados à interface
 - 🌱 Aprofundando em **Java + Spring Boot**, **PostgreSQL** e **PL/SQL**
-- 🎯 Objetivo: evoluir como desenvolvedor back-end, escrevendo código limpo e testável
+- 🎯 Objetivo: evoluir como desenvolvedor, escrevendo código limpo e testável
 - 📫 Contato: **otaviohresende@gmail.com**
 
 ---
