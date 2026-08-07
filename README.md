@@ -21,9 +21,6 @@ public class Otavio {
     private final String formacao   = "Sistemas de Informação - UFV";
     private final String atuacao    = "Desenvolvedor Full Stack";
     private final String[] foco     = { "APIs REST", "Bancos de Dados", "Back-end em Java" };
-
-    public String[] estudandoAgora() {
-        return new String[] { "Spring Boot", "PostgreSQL", "PL/SQL", "Boas práticas & testes" };
     }
 }
 ```
