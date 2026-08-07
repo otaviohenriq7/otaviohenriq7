@@ -9,9 +9,6 @@
   <a href="mailto:otaviohresende@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-2EA043?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/otaviohenriq7">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39D353"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=otaviohenriq7&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=39d353&style=for-the-badge" alt="Profile views"/>
 </p>
 
