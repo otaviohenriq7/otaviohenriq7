@@ -74,12 +74,12 @@ public class Otavio {
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos em destaque (JAVA)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💈 Agendador de Barbearia (Java)</h3>
+      <h3 align="center">💈 Agendador de Barbearia</h3>
       <p><b>API REST de agendamento</b> para barbearia, construída com <b>Spring Boot</b> e <b>JPA</b>.</p>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Agendador_Barbearia">
@@ -88,7 +88,7 @@ public class Otavio {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☕ Sistema CRUD em Java</h3>
+      <h3 align="center">☕ Sistema CRUD</h3>
       <p>Sistema completo de <b>CRUD</b>, com operações de criação, leitura, atualização e exclusão de registros.</p>
       <p align="center">
         <a href="https://github.com/otaviohenriq7/Sistema-CRUD-Java">
